@@ -1,12 +1,12 @@
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonspors" />
-</a>
-
 <h2> Hello Fellow < Developers/ >!</h2>
+
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img margin-top="20" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonspors&hide_border=true&hide_title=true&show_icons=true&count_private=true&layout=compact" />
+</a>
   
 - 🔭 I’m currently working at <a href="https://kevox.de">KEVOX</a>
   
-- 🌱 I’m currently learning proper optimization, benchmarking and refactoring   
+- 🌱 I’m currently learning proper **optimization**, **benchmarking** and **refactoring**   
   
 - 🌐 Know more about me at <a href="https://spors.io">spors.io</a>
 
